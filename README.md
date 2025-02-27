@@ -33,7 +33,7 @@
 Snowflake создает экземпляр класса MakeSnowflake для инициализации своей структуры данных.
 
 <p align="center">
-    [![Диаграмма классов представлена следующим образом:](https://i.postimg.cc/dVHFcs5L/download.png)](https://postimg.cc/FYL8j454)
+    <img width="400" height="250" src="https://i.postimg.cc/dVHFcs5L/download.png)](https://postimg.cc/FYL8j454">
 </p>
 
 Класс ***MakeSnowflake***
